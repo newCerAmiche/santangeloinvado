@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Disallow:
+Sitemap: https://newceramiche.github.io/santangeloinvado/sitemap.xml
