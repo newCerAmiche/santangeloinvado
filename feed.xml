@@ -3,12 +3,54 @@
     <title>Cer&#x27;Amiche</title>
     <link href="https://newceramiche.github.io/santangeloinvado/feed.xml" rel="self" />
     <link href="https://newceramiche.github.io/santangeloinvado" />
-    <updated>2021-05-24T13:18:43+02:00</updated>
+    <updated>2022-01-06T19:20:46+01:00</updated>
     <author>
         <name>TidyCustoms</name>
     </author>
     <id>https://newceramiche.github.io/santangeloinvado</id>
 
+    <entry>
+        <title>Gallery</title>
+        <author>
+            <name>TidyCustoms</name>
+        </author>
+        <link href="https://newceramiche.github.io/santangeloinvado/gallery/"/>
+        <id>https://newceramiche.github.io/santangeloinvado/gallery/</id>
+
+        <updated>2022-01-06T19:20:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                    With most smartphones having a decent-quality camera on-board nowadays, photos have become part of our daily life. If you like showing off your photos, you'll appreciate the gallery functionality included with Publii and powered by Photoswipe. Why Photoswipe? Because it puts value on the same&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>With most smartphones having a decent-quality camera on-board nowadays, photos have become part of our daily life. If you like showing off your photos, you'll appreciate the gallery functionality included with Publii and powered by <a href="http://photoswipe.com/" target="_blank" rel="noopener noreferrer">Photoswipe</a>.</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://newceramiche.github.io/santangeloinvado/media/posts/9/gallery/tyler-nix-QcHvCLwXByA-unsplash-2.jpg" data-size="3135x4703"><img loading="lazy" src="https://newceramiche.github.io/santangeloinvado/media/posts/9/gallery/tyler-nix-QcHvCLwXByA-unsplash-2-thumbnail.jpg" alt="Alt text" width="768" height="1152"></a>
+<figcaption>Image caption</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://newceramiche.github.io/santangeloinvado/media/posts/9/gallery/maxim-hopman-8cT5ja0P_N4-unsplash-2.jpg" data-size="3456x4608"><img loading="lazy" src="https://newceramiche.github.io/santangeloinvado/media/posts/9/gallery/maxim-hopman-8cT5ja0P_N4-unsplash-2-thumbnail.jpg" alt="Alt text" width="768" height="1024"></a>
+<figcaption>Image caption</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://newceramiche.github.io/santangeloinvado/media/posts/9/gallery/nathan-dumlao-_aI33oOfQ38-unsplash-2.jpg" data-size="4480x6720"><img loading="lazy" src="https://newceramiche.github.io/santangeloinvado/media/posts/9/gallery/nathan-dumlao-_aI33oOfQ38-unsplash-2-thumbnail.jpg" alt="Alt text" width="768" height="1152"></a>
+<figcaption>Image caption</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://newceramiche.github.io/santangeloinvado/media/posts/9/gallery/frank-uyt-den-bogaard-U6LnP-FlFNI-unsplash-2.jpg" data-size="2801x3011"><img loading="lazy" src="https://newceramiche.github.io/santangeloinvado/media/posts/9/gallery/frank-uyt-den-bogaard-U6LnP-FlFNI-unsplash-2-thumbnail.jpg" alt="Alt text" width="768" height="826"></a>
+<figcaption>Image caption</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://newceramiche.github.io/santangeloinvado/media/posts/9/gallery/damir-spanic-ruzbaaZxC4c-unsplash-2.jpg" data-size="3744x5616"><img loading="lazy" src="https://newceramiche.github.io/santangeloinvado/media/posts/9/gallery/damir-spanic-ruzbaaZxC4c-unsplash-2-thumbnail.jpg" alt="Alt text" width="768" height="1152"></a>
+<figcaption>Image caption</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://newceramiche.github.io/santangeloinvado/media/posts/9/gallery/nathan-dumlao-qxcQG21m_qE-unsplash.jpg" data-size="4480x6720"><img loading="lazy" src="https://newceramiche.github.io/santangeloinvado/media/posts/9/gallery/nathan-dumlao-qxcQG21m_qE-unsplash-thumbnail.jpg" alt="Alt text" width="768" height="1152"></a>
+<figcaption>Image caption</figcaption>
+</figure>
+</div></div>
+<p>Why Photoswipe? Because it puts value on the same attributes as Publii; speed and functionality combined. Photoswipe creates responsive galleries that work on all devices and screen sizes, and it has full touch support so you can open, zoom and switch images with just a few gestures.</p>
+<p>Not only is it intuitive, but it's fast too. Photoswipe implements many features to get users to the photos they want as quickly as possible. Lazy-loading preloads images, and if the connection isn't the best it can display them progressively or use the thumbnail as a placeholder while loading finishes. Should things take a little longer than expected, a smart loading indicator will kick in to let users know that the photos are on their way!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How To Leave Fashion Without Being Noticed</title>
         <author>
@@ -397,54 +439,6 @@
 </figure>
 <figure class="gallery__item"><a href="https://newceramiche.github.io/santangeloinvado/media/posts/14/gallery/jon-tyson-eBN71NgyPU8-unsplash.jpg" data-size="3024x4032"><img loading="lazy" src="https://newceramiche.github.io/santangeloinvado/media/posts/14/gallery/jon-tyson-eBN71NgyPU8-unsplash-thumbnail.jpg" alt="Alt text" width="768" height="1024"></a>
 <figcaption>Image description</figcaption>
-</figure>
-</div></div>
-<p>Sed laoreet justo nec orci lobortis imperdiet. Aliquam lacinia scelerisque libero at mattis. Curabitur ac magna erat. Integer eleifend, lacus quis cursus euismod, massa sem blandit nulla, ut dignissim turpis libero et urna. Phasellus tortor augue, rutrum vel euismod at, eleifend ac turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla suscipit nibh sed laoreet viverra. Praesent ut nulla in urna tincidunt posuere.</p>
-<blockquote>This is a blockquote. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse rhoncus gravida neque, quis convallis libero sollicitudin vitae. Morbi et lacus metus.Lorem ipsum dolor.</blockquote>
-<p>Integer vel fermentum quam, at ultricies diam. Maecenas quis volutpat sem, ut hendrerit justo. Quisque eleifend dignissim nisi eget tincidunt. Nam nunc metus, volutpat vitae sapien id, ultrices ultricies justo. Nam congue mauris at pellentesque pharetra. Fusce aliquam nisi quis neque ultricies, id finibus velit mollis. Morbi dictum ante ac felis porta, in venenatis dui tincidunt.</p>
-<p>Proin ultricies diam in malesuada ultrices. Vivamus porta pulvinar metus, ac pulvinar lacus cursus ut. Pellentesque vel interdum felis, sed venenatis mauris. Maecenas imperdiet orci ut felis consequat varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-<ul>
-<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-<li>Maecenas quis volutpat sem.</li>
-<li>Class aptent taciti sociosqu ad litora.</li>
-<li>Phasellus ac lacinia urna.</li>
-</ul>
-<p>Cras nec sollicitudin velit, sit amet elementum tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque augue lectus, sollicitudin vel rutrum id, congue bibendum nunc. Donec et vehicula magna. Vestibulum purus justo, sollicitudin vitae purus quis, blandit consectetur urna. Donec gravida sit amet nisl a tempus. Quisque et aliquet velit.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>What&#x27;s So Trendy About Leather That Everyone Went Crazy Over It?</title>
-        <author>
-            <name>TidyCustoms</name>
-        </author>
-        <link href="https://newceramiche.github.io/santangeloinvado/leather-that-everyone-went-crazy-over-it/"/>
-        <id>https://newceramiche.github.io/santangeloinvado/leather-that-everyone-went-crazy-over-it/</id>
-            <category term="shoes"/>
-            <category term="leather"/>
-            <category term="fashion"/>
-            <category term="blogging"/>
-
-        <updated>2021-05-23T07:46:28+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://newceramiche.github.io/santangeloinvado/media/posts/12/nordwood-themes-6V-vJpPzvh8-unsplash.jpg" alt="Alt text" />
-                    Praesent varius, urna vel consectetur elementum, enim tellus molestie justo, et vehicula quam nulla sit amet mi. Mauris suscipit eros malesuada augue tincidunt feugiat. Cras gravida semper arcu quis imperdiet. Aliquam sollicitudin ipsum risus, in sollicitudin ipsum finibus ut. Fusce consequat vestibulum mi ac sollicitudin.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://newceramiche.github.io/santangeloinvado/media/posts/12/nordwood-themes-6V-vJpPzvh8-unsplash.jpg" alt="Alt text" />
-                <p>Praesent varius, urna vel consectetur elementum, enim tellus molestie justo, et vehicula quam nulla sit amet mi. Mauris suscipit eros malesuada augue tincidunt feugiat. Cras gravida semper arcu quis imperdiet. <a href="#">Aliquam sollicitudin</a> ipsum risus, in sollicitudin ipsum finibus ut. Fusce consequat vestibulum mi ac sollicitudin. Phasellus porttitor maximus nisl, vitae sagittis lorem gravida sit amet. Donec augue nulla, eleifend tempus nibh a, posuere faucibus metus. Nam quis urna tincidunt, tristique nulla a, sollicitudin lectus. In hac habitasse platea dictumst. Aenean vel tortor metus. Ut imperdiet, dui eu luctus laoreet, turpis odio eleifend odio, eu eleifend turpis arcu at ex.</p>
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://newceramiche.github.io/santangeloinvado/media/posts/12/gallery/nathan-dumlao-qxcQG21m_qE-unsplash.jpg" data-size="4480x6720"><img loading="lazy" src="https://newceramiche.github.io/santangeloinvado/media/posts/12/gallery/nathan-dumlao-qxcQG21m_qE-unsplash-thumbnail.jpg" alt="Alt text" width="768" height="1152"></a>
-<figcaption>Image caption</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://newceramiche.github.io/santangeloinvado/media/posts/12/gallery/oziel-gomez-x7gz40Z9ObM-unsplash.jpg" data-size="4608x3072"><img loading="lazy" src="https://newceramiche.github.io/santangeloinvado/media/posts/12/gallery/oziel-gomez-x7gz40Z9ObM-unsplash-thumbnail.jpg" alt="Alt text" width="768" height="512"></a>
-<figcaption>Image caption</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://newceramiche.github.io/santangeloinvado/media/posts/12/gallery/shelbey-miller-HIQd4db8Kr8-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://newceramiche.github.io/santangeloinvado/media/posts/12/gallery/shelbey-miller-HIQd4db8Kr8-unsplash-thumbnail.jpg" alt="Alt text" width="768" height="512"></a>
-<figcaption>Image caption</figcaption>
 </figure>
 </div></div>
 <p>Sed laoreet justo nec orci lobortis imperdiet. Aliquam lacinia scelerisque libero at mattis. Curabitur ac magna erat. Integer eleifend, lacus quis cursus euismod, massa sem blandit nulla, ut dignissim turpis libero et urna. Phasellus tortor augue, rutrum vel euismod at, eleifend ac turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla suscipit nibh sed laoreet viverra. Praesent ut nulla in urna tincidunt posuere.</p>
