@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "ECCOCI! NOI SIAMO LE:",
+    "title": "Cer&#x27;Amiche di Sant&#x27;Angelo in Vado",
     "description": "",
     "home_page_url": "https://newceramiche.github.io/santangeloinvado",
     "feed_url": "https://newceramiche.github.io/santangeloinvado/feed.json",
     "user_comment": "",
+    "icon": "https://newceramiche.github.io/santangeloinvado/media/website/piatto400.png",
     "author": {
         "name": "Manuela Lani"
     },
