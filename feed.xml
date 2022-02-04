@@ -3,7 +3,7 @@
     <title>Cer&#x27;Amiche - Associazione d&#x27;Artiste di Sant&#x27;Angelo in Vado</title>
     <link href="https://newceramiche.github.io/santangeloinvado/feed.xml" rel="self" />
     <link href="https://newceramiche.github.io/santangeloinvado" />
-    <updated>2022-02-01T23:48:55+01:00</updated>
+    <updated>2022-02-04T12:22:34+01:00</updated>
     <author>
         <name>Manuela Lani</name>
     </author>
@@ -40,18 +40,25 @@
         <link href="https://newceramiche.github.io/santangeloinvado/le-nostre-creazioni-3.html"/>
         <id>https://newceramiche.github.io/santangeloinvado/le-nostre-creazioni-3.html</id>
 
-        <updated>2022-02-01T23:48:26+01:00</updated>
+        <updated>2022-02-04T12:22:34+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://newceramiche.github.io/santangeloinvado/media/posts/3/2.png" alt="" />
-                    Pagina in costruzione 
+                    CORSI DI CERAMICA BASE Vi aspettiamo il mercoledì pomeriggio dalle 16,00 alle 19,00 per chi desidera provare a manipolare e costruire oggetti in terracotta...le nostre proposte a partire dal mese di&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://newceramiche.github.io/santangeloinvado/media/posts/3/2.png" alt="" />
-                <h2 class="align-center">Pagina in costruzione</h2>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-columns="3"> </div></div>
+                <h2 class="align-center">CORSI DI CERAMICA BASE</h2>
+<p>Vi aspettiamo il mercoledì pomeriggio dalle 16,00 alle 19,00 per chi desidera provare a manipolare e costruire oggetti in terracotta...le nostre proposte a partire dal mese di febbraio 2022:</p>
+<p>Primo step...tecniche di base come lavorare la creta , imprinting con foglie su terra fresca </p>
+<p>secondo step...decorazione, dopo prima cottura</p>
+<p>terzo step... bagno di cristallina o smalto e cottura finale del manufatto </p>
+<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://newceramiche.github.io/santangeloinvado/media/posts/3/gallery/IMG-20191214-WA0001.jpg" data-size="2016x1508"><img loading="lazy" src="https://newceramiche.github.io/santangeloinvado/media/posts/3/gallery/IMG-20191214-WA0001-thumbnail.jpg" alt="" width="768" height="574"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
